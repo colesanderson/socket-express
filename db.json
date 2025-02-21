@@ -1,0 +1,443 @@
+{
+  "chatRooms": [
+    {
+      "id": "room1",
+      "name": "test"
+    },
+    {
+      "id": "room2",
+      "name": "cool room"
+    },
+    {
+      "id": "room3",
+      "name": "champ chat"
+    }
+  ],
+  "messages": {
+    "room1": [
+      {
+        "id": "msg1740034638581",
+        "content": "test",
+        "username": "cole",
+        "roomId": "room1",
+        "timestamp": "2025-02-20T06:57:18.581Z"
+      },
+      {
+        "id": "msg1740034642790",
+        "content": "what?",
+        "username": "cole",
+        "roomId": "room1",
+        "timestamp": "2025-02-20T06:57:22.790Z"
+      },
+      {
+        "id": "msg1740087954682",
+        "content": "hello there!",
+        "username": "test1",
+        "roomId": "room1",
+        "timestamp": "2025-02-20T21:45:54.685Z"
+      },
+      {
+        "id": "msg1740087967697",
+        "content": "whats up!?",
+        "username": "cole",
+        "roomId": "room1",
+        "timestamp": "2025-02-20T21:46:07.697Z"
+      },
+      {
+        "id": "msg1740088198288",
+        "content": "test",
+        "username": "cole",
+        "roomId": "room1",
+        "timestamp": "2025-02-20T21:49:58.288Z"
+      },
+      {
+        "id": "msg1740089055204",
+        "content": "testtt",
+        "username": "cole",
+        "roomId": "room1",
+        "timestamp": "2025-02-20T22:04:15.204Z"
+      },
+      {
+        "id": "msg1740089063351",
+        "content": "taa",
+        "username": "test1",
+        "roomId": "room1",
+        "timestamp": "2025-02-20T22:04:23.351Z"
+      },
+      {
+        "id": "msg1740118015287",
+        "content": "test",
+        "username": "cole",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:06:55.287Z"
+      },
+      {
+        "id": "msg1740118016227",
+        "content": "test",
+        "username": "cole",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:06:56.227Z"
+      },
+      {
+        "id": "msg1740118174757",
+        "content": "test",
+        "username": "cole",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:09:34.757Z"
+      },
+      {
+        "id": "msg1740118175384",
+        "content": "test",
+        "username": "cole",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:09:35.384Z"
+      },
+      {
+        "id": "msg1740118369692",
+        "content": "taa",
+        "username": "cole",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:12:49.692Z"
+      },
+      {
+        "id": "msg1740118385726",
+        "content": "tes",
+        "username": "cole",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:13:05.726Z"
+      },
+      {
+        "id": "msg1740118474819",
+        "content": "aaa",
+        "username": "test1",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:14:34.819Z"
+      },
+      {
+        "id": "msg1740118480488",
+        "content": "tttt",
+        "username": "cole",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:14:40.488Z"
+      },
+      {
+        "id": "msg1740118553531",
+        "content": "tes",
+        "username": "cole",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:15:53.531Z"
+      },
+      {
+        "id": "msg1740118557937",
+        "content": "taaa",
+        "username": "test1",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:15:57.937Z"
+      },
+      {
+        "id": "msg1740118746437",
+        "content": "tttt",
+        "username": "cole",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:19:06.437Z"
+      },
+      {
+        "id": "msg1740118971153",
+        "content": "aaa",
+        "username": "test1",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:22:51.153Z"
+      },
+      {
+        "id": "msg1740118975328",
+        "content": "aaa",
+        "username": "test1",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:22:55.328Z"
+      },
+      {
+        "id": "msg1740118996008",
+        "content": "aaa",
+        "username": "test1",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:23:16.008Z"
+      },
+      {
+        "id": "msg1740119108566",
+        "content": "sss",
+        "username": "test1",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:25:08.566Z"
+      },
+      {
+        "id": "msg1740119112036",
+        "content": "tttt",
+        "username": "cole",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:25:12.036Z"
+      },
+      {
+        "id": "msg1740119208218",
+        "content": "ttt",
+        "username": "test1",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:26:48.218Z"
+      },
+      {
+        "id": "msg1740119212380",
+        "content": "aaaa",
+        "username": "cole",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:26:52.381Z"
+      },
+      {
+        "id": "msg1740119351443",
+        "content": "taa",
+        "username": "test1",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:29:11.443Z"
+      },
+      {
+        "id": "msg1740119525652",
+        "content": "rrr",
+        "username": "test1",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:32:05.652Z"
+      },
+      {
+        "id": "msg1740119661049",
+        "content": "aaa",
+        "username": "test1",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:34:21.049Z"
+      },
+      {
+        "id": "msg1740119663975",
+        "content": "test",
+        "username": "cole",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:34:23.975Z"
+      },
+      {
+        "id": "msg1740119706929",
+        "content": "aaa",
+        "username": "cole",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:35:06.929Z"
+      },
+      {
+        "id": "msg1740120053523",
+        "content": "aaa",
+        "username": "test1",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:40:53.523Z"
+      },
+      {
+        "id": "msg1740120060619",
+        "content": "www",
+        "username": "test1",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:41:00.619Z"
+      },
+      {
+        "id": "msg1740120065273",
+        "content": "rrrr",
+        "username": "cole",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:41:05.273Z"
+      },
+      {
+        "id": "msg1740120070648",
+        "content": "asss",
+        "username": "cole",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:41:10.648Z"
+      },
+      {
+        "id": "msg1740120100256",
+        "content": "test",
+        "username": "test1",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:41:40.256Z"
+      },
+      {
+        "id": "msg1740120108860",
+        "content": "test",
+        "username": "test1",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:41:48.861Z"
+      },
+      {
+        "id": "msg1740120111619",
+        "content": "taaa",
+        "username": "test1",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:41:51.619Z"
+      },
+      {
+        "id": "msg1740120121608",
+        "content": "ess",
+        "username": "cole",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:42:01.608Z"
+      },
+      {
+        "id": "msg1740120135234",
+        "content": "ee",
+        "username": "test1",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:42:15.234Z"
+      },
+      {
+        "id": "msg1740120138342",
+        "content": "aa",
+        "username": "cole",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:42:18.342Z"
+      },
+      {
+        "id": "msg1740120201955",
+        "content": "aaa",
+        "username": "cole",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:43:21.955Z"
+      },
+      {
+        "id": "msg1740120203645",
+        "content": "eee",
+        "username": "cole",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:43:23.645Z"
+      },
+      {
+        "id": "msg1740120221868",
+        "content": "sss",
+        "username": "test1",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:43:41.868Z"
+      },
+      {
+        "id": "msg1740120226270",
+        "content": "te",
+        "username": "cole",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:43:46.270Z"
+      },
+      {
+        "id": "msg1740120228445",
+        "content": "aaaa",
+        "username": "cole",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:43:48.445Z"
+      },
+      {
+        "id": "msg1740120230507",
+        "content": "t",
+        "username": "test1",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:43:50.507Z"
+      },
+      {
+        "id": "msg1740120370686",
+        "content": "tes",
+        "username": "test1",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:46:10.686Z"
+      },
+      {
+        "id": "msg1740120374322",
+        "content": "aaa",
+        "username": "cole",
+        "roomId": "room1",
+        "timestamp": "2025-02-21T06:46:14.322Z"
+      }
+    ],
+    "room2": [
+      {
+        "id": "msg1740080402311",
+        "content": "hello",
+        "username": "cole",
+        "roomId": "room2",
+        "timestamp": "2025-02-20T19:40:02.311Z"
+      },
+      {
+        "id": "msg1740080411729",
+        "content": "woah someone is there!? ",
+        "username": "test1",
+        "roomId": "room2",
+        "timestamp": "2025-02-20T19:40:11.729Z"
+      }
+    ],
+    "room3": [
+      {
+        "id": "msg1740032035716",
+        "content": "kewl",
+        "username": "cole",
+        "roomId": "room3",
+        "timestamp": "2025-02-20T06:13:55.716Z"
+      }
+    ],
+    "undefined": [
+      {
+        "id": "msg1740118369674",
+        "timestamp": "2025-02-21T06:12:49.674Z"
+      },
+      {
+        "id": "msg1740118385694",
+        "timestamp": "2025-02-21T06:13:05.694Z"
+      },
+      {
+        "id": "msg1740118474737",
+        "timestamp": "2025-02-21T06:14:34.737Z"
+      },
+      {
+        "id": "msg1740118480416",
+        "timestamp": "2025-02-21T06:14:40.416Z"
+      }
+    ]
+  },
+  "users": [
+    {
+      "id": "user1740024237592",
+      "username": "cole",
+      "password": "pass",
+      "status": "online"
+    },
+    {
+      "id": "user1740024515911",
+      "username": "foo",
+      "password": "pass",
+      "status": "offline"
+    },
+    {
+      "id": "user1740024561439",
+      "username": "test1",
+      "password": "foo",
+      "status": "online"
+    },
+    {
+      "id": "user1740024903589",
+      "username": "test3",
+      "password": "foo",
+      "status": "offline"
+    },
+    {
+      "id": "user1740026216345",
+      "username": "cool",
+      "password": "foo",
+      "status": "offline"
+    },
+    {
+      "id": "user1740031714296",
+      "username": "some",
+      "password": "foo",
+      "status": "offline"
+    },
+    {
+      "id": "user1740037001503",
+      "username": "new",
+      "password": "pass",
+      "status": "offline"
+    }
+  ]
+}
